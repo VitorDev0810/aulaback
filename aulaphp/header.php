@@ -16,12 +16,6 @@
 <body>
 <nav>
     <a href="relatorio.php">Relatório</a>
-    <a href="insere.php">Novo Produto</a>
+    <a href="insere.php">Cadastrar Carro</a>
 </nav>
 <div class="container">
-
-</div> <footer style="text-align: center; padding: 20px; color: #666;">
-    <p>&copy; <?= date('Y') ?> - Aula de Back-end</p>
-</footer>
-</body>
-</html>

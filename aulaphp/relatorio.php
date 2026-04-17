@@ -24,7 +24,7 @@ include_once 'header.php';
 
 <table border="1" width="100%" cellpadding="10" style="border-collapse: collapse;">
     <tr>
-        <th>ID</th><th>Nome</th><th>Preço</th><th>Ações</th>
+        <th>ID</th><th>Placa</th><th>Marca</th><th>Ações</th>  
     </tr>
     <?php foreach($produtos as $p): ?>
     <tr>

@@ -15,9 +15,10 @@ include_once 'header.php';
 ?>
 <h2>Cadastrar Produto</h2>
 <form method="POST">
-    <input type="text" name="nome" placeholder="Nome" required><br><br>
-    <input type="number" step="0.01" name="preco" placeholder="Preço" required><br><br>
-    <input type="number" name="quantidade" placeholder="Quantidade" required><br><br>
+    <input type="number" name="placa" placeholder="Placa" required><br><br>
+    <input type="text" step="0.01" name="Marca" placeholder="Marca" required><br><br>
+    <input type="text" name="modelo" placeholder="Modelo" required><br><br>
+    <input type="numb34" name="cpf" placeholder="Cpf" required><br><br>
     <button type="submit">Salvar</button>
 </form>
 <?php include_once 'footer.php'; ?>
