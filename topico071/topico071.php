@@ -1,7 +1,7 @@
 <?php
 echo "<h1>While</h1>";
-$i=11;
-while($i<15){
+$i=5;
+while($i>1){
     echo " $i";
     $i++;
 }
